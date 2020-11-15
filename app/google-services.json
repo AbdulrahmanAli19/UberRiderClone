@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "615910702772",
+    "firebase_url": "https://uberclone-c50b5.firebaseio.com",
+    "project_id": "uberclone-c50b5",
+    "storage_bucket": "uberclone-c50b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615910702772:android:2d6b12e111848b7bb921e1",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615910702772-mt9fb0kp1l7blk9e4so12rmfdlpohtaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber",
+            "certificate_hash": "fea29c7e71ef76bb06c97973c664e806112179cd"
+          }
+        },
+        {
+          "client_id": "615910702772-8vf7sb7fvkn1gu72qthmiliopm6us58g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber",
+            "certificate_hash": "37d0ee6444c3cfff70604db5d5f749263a8b243d"
+          }
+        },
+        {
+          "client_id": "615910702772-v71pu70sgl624ni2t7ub6n2309up50qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlf-80xw5sSeFIo_svq28OTzK4Jfq7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615910702772-v71pu70sgl624ni2t7ub6n2309up50qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615910702772:android:1dfb44479ac94e29b921e1",
+        "android_client_info": {
+          "package_name": "com.example.uberriderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615910702772-v71pu70sgl624ni2t7ub6n2309up50qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlf-80xw5sSeFIo_svq28OTzK4Jfq7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615910702772-v71pu70sgl624ni2t7ub6n2309up50qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
