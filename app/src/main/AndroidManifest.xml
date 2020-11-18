@@ -9,9 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UberRiderClone">
-        <activity android:name=".SplashActivity"
-            android:theme="@style/splashTheme"
-            >
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.UberRiderClone.NoActionBar">
+
+        </activity>
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/splashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
